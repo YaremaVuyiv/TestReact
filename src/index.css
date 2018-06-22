@@ -1,0 +1,47 @@
+body{
+  margin-top:0px;
+  padding-top: 0px;
+  width:100vw;
+}
+
+.mainContainer{
+      background-image: url("./img/galaxy.png");
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-attachment: fixed;
+      width: 100vw;
+      min-height: 100vh;
+  }
+  
+  .topicsList{
+    padding-top: 0px;
+    margin-top: 0px;
+  }
+
+  
+  .listContainer{
+    background-color:white;
+    border-radius: 10px;
+  }
+  
+  .topicItem{
+    padding:15px;
+  }
+
+  
+  h1{
+    color:white;
+  }
+
+h2{
+color:white;
+}
+
+loginContainer{
+padding:15px;
+background-color: white;
+}
+
+form{
+color: white;
+}
